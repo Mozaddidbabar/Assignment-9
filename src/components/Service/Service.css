@@ -1,0 +1,9 @@
+.sites{
+    width: 420px;
+    height: 500px;
+    border: 2px solid grey;
+    border-radius: 15px;
+    font-size: large;
+    box-shadow: 10px 10px rgba(190, 184, 184, 0.192);
+    background-image: linear-gradient(to right, rgba(109, 127, 167, 0.801), rgba(10, 28, 131, 0.048));
+}

@@ -1,0 +1,13 @@
+.header-container{
+    background-image: url('https://www.incimages.com/uploaded_files/image/1920x1080/getty_177809840_65441.jpg');
+    height: 400px;
+    width: 100%;
+    margin: auto;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+}
+.nav-link {
+    margin-right: 10px;
+}

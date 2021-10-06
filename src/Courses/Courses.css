@@ -1,0 +1,19 @@
+.courses{
+    width: 400px;
+    height: 380px;
+    border: 2px solid grey;
+    border-radius: 15px;
+    background-image: linear-gradient(rgba(141, 128, 128, 0.514), rgba(105, 105, 221, 0.767));
+    box-shadow: 10px 10px rgba(190, 184, 184, 0.192);
+}
+.courses p{
+    font-size: large;
+}
+.linked{
+    padding: 5px;
+    width: 40px;
+    text-decoration: none;
+    border-radius: 5px;
+    color: white;
+    background-color: blue;
+}

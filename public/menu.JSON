@@ -1,0 +1,26 @@
+[
+    {
+        "key": "1",
+        "name": "Competitive Programming",
+        "price": 39,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ43uMBqyNL6S9tRwNaC1oCbX6exjSK1E4iow&usqp=CAU"
+    },
+    {
+        "key": "2",
+        "name": "Web Developing",
+        "price": 49,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV--5QlI17JIxa8XsbkwO0_-UJ-gZjYbO9bA&usqp=CAU"
+    },
+    {
+        "key": "3",
+        "name": "App Development",
+        "price": 69,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkmDujEjaionjS4zSw--ZYF0lenQCOn7m7Lg&usqp=CAU"
+    },
+    {
+        "key": "4",
+        "name": "Artificial Intelligence",
+        "price": 59,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWNS7tHYFj6gPhlARDxQ_gu-wtqeCGkFAVaw&usqp=CAU"
+    }
+]
